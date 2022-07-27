@@ -34,5 +34,11 @@ Add below text to your HTML and edit it with the below piece of content:
 * Moreover, You have to add “start”: “vite” to your scripts in package.json.
 * Finally, you have to run the npm run start command to start a dev server.
 
+## Clone the project
+
+```bash
+  git clone https://github.com/CodeWithAarish/Mastering-TailWind-CSS.git
+```
+
 # Thank You
-If you all like this repo so plz give it a start fork it. 
+If you all like this repo so plz give it a start and fork it. 
