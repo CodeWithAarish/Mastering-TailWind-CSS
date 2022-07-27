@@ -41,7 +41,8 @@ Add below text to your HTML and edit it with the below piece of content:
 ```
 
 ## ScreenShot
+This is the screenshot of the **Facebook Clone**
 ![FaceBook](https://user-images.githubusercontent.com/92175058/181161928-25122419-8763-4ae6-84f0-11ba88616f39.jpg)
 
 # Thank You
-If you all like this repo so plz give it a start and fork it. 
+Hope you like this repo. If yes, so plz give it a start and fork it. 
