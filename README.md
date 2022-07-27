@@ -19,6 +19,10 @@ npm init -y
 npm install -D tailwindcss postcss autoprefixer vite
 npx tailwindcss init -p
 ```
+Also run to install node_module
+```bash
+  npm i
+```
 * I have also install ```vite``` as it reload the site automatically when some changes happen.
 * Create an “Input.css” file
 Add below text to your HTML and edit it with the below piece of content:
