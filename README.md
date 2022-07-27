@@ -40,5 +40,8 @@ Add below text to your HTML and edit it with the below piece of content:
   git clone https://github.com/CodeWithAarish/Mastering-TailWind-CSS.git
 ```
 
+## ScreenShot
+![FaceBook](https://user-images.githubusercontent.com/92175058/181161928-25122419-8763-4ae6-84f0-11ba88616f39.jpg)
+
 # Thank You
 If you all like this repo so plz give it a start and fork it. 
